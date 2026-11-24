@@ -1,0 +1,1 @@
+When the cloud model retired mid-run, I cut six vertical clips from our six-minute stickman drama on a local 1.5B model, and the cuts held.
