@@ -17,7 +17,7 @@ const MAX_LEN = 200;
 // The line must carry, in the judge's order: (1) the actual task,
 // (2) the snag that hit mid-run, (3) the substitution that saved it.
 // Enforced here so a careless edit cannot silently ship a slogan.
-const REQUIRED = ["six vertical clips", "retired", "1.5B", "cuts held"];
+const REQUIRED = ["six vertical clips", "retired", "1.5B", "landed on the right moment"];
 
 function fail(message: string): never {
   console.error(`error: ${message}`);
